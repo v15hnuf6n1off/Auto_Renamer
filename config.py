@@ -27,15 +27,15 @@ class Txt(object):
         
     START_TXT = """Hello {} 
     
-➻ I'm a simple Powerful Rename Bot.
+➻ **I'm a simple Powerful Rename Bot.**
     
-➻ By Using me You Can Auto Rename your Your Files.
+➻ **By Using me You Can Auto Rename your Your Files.**
     
-➻ I can Support Custom Thumbnail And Custom Caption.
+➻ **I can Support Custom Thumbnail And Custom Caption.**
     
-➻ Use /tutorial Command To Know How To Use Me.
+➻ **Use /tutorial Command To Know How To Use Me.**
     
-<b>Bot Is Made By @MR_V_BOTS</b>"""
+<b>A Bot By @MR_V_BOTS</b>"""
     
     FILE_NAME_TXT = """<b><u>SETUP AUTO RENAME FORMAT</u></b>
 
@@ -60,16 +60,16 @@ Use These Keywords To Setup Custom File Name
     
     THUMBNAIL_TXT = """<b><u>🖼️  HOW TO SET THUMBNAIL</u></b>
     
-⦿ You Can Add Custom Thumbnail By Sending A Photo To Me....
+ You Can Add Custom Thumbnail By Sending A Photo To Me....
     
-⦿ /viewthumb - Use This Command To See Your Thumbnail
-⦿ /delthumb - Use This Command To Delete Your Thumbnail"""
+ /viewthumb - Use This Command To See Your Thumbnail
+ /delthumb - Use This Command To Delete Your Thumbnail"""
 
     CAPTION_TXT = """<b><u>📝  HOW TO SET CAPTION</u></b>
     
-⦿ /set_caption - Use This Command To Set Your Caption
-⦿ /see_caption - Use This Command To See Your Caption
-⦿ /del_caption - Use This Command To Delete Your Caption"""
+ /set_caption - Use This Command To Set Your Caption
+ /see_caption - Use This Command To See Your Caption
+ /del_caption - Use This Command To Delete Your Caption"""
 
     PROGRESS_BAR = """\n
 <b>📁 Size</b> : {1} | {2}
