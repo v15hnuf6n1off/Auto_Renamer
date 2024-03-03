@@ -11,7 +11,7 @@ async def start(client, message):
     await madflixbotz.add_user(client, message)                
     button = InlineKeyboardMarkup([[
       InlineKeyboardButton('🔔 Updates', url='https://t.me/Mr_V_bots),
-      InlineKeyboardButton('🌐 Support', url='https://t.me/+MviX9PK66y4yZTBl')
+      InlineKeyboardButton('🌐 Support Chat', url='https://t.me/+MviX9PK66y4yZTBl')
     ],[
       InlineKeyboardButton('❗️ Help', callback_data='help'),
       InlineKeyboardButton('💡About', callback_data='about')
@@ -34,7 +34,7 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([[
                 InlineKeyboardButton('🔔 Updates', url='https://t.me/Mr_V_bots'),
-                InlineKeyboardButton('🌐 Support', url='https://t.me/MadflixBots_Support')
+                InlineKeyboardButton('🌐 Support Chat', url='https://t.me/+MviX9PK66y4yZTBl')
                 ],[
                 InlineKeyboardButton('❗️ Help', callback_data='help'),
                 InlineKeyboardButton('💡 About', callback_data='about')
