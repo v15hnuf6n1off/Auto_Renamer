@@ -160,7 +160,7 @@ async def auto_rename_files(client, message):
         file_name = f"{message.audio.file_name}.mp3"
         media_type = media_preference or "audio"  # Use preferred media type or default to audio
     else:
-        return await message.reply_text("Unsupported File Type")
+        return await message.reply_text("❗️Unsupported File Type")
 
     print(f"Original File Name: {file_name}")
     
@@ -206,7 +206,7 @@ async def auto_rename_files(client, message):
 
         download_msg = await message.reply_text(text="Trying To Download.....")
         try:
-            path = await client.download_media(message=file, file_name=file_path, progress=progress_for_pyrogram, progress_args=("Download Started....", download_msg, time.time()))
+            path = await client.download_media(message=file, file_name=file_path, progress=progress_for_pyrogram, progress_args=("📥Download Started....", download_msg, time.time()))
         except Exception as e:
             # Mark the file as ignored
             del renaming_operations[file_id]
@@ -220,7 +220,7 @@ async def auto_rename_files(client, message):
         except Exception as e:
             print(f"Error getting duration: {e}")
 
-        upload_msg = await download_msg.edit("Trying To Uploading.....")
+        upload_msg = await download_msg.edit("Trying To 📤Uploading.....")
         ph_path = None
         c_caption = await madflixbotz.get_caption(message.chat.id)
         c_thumb = await madflixbotz.get_thumbnail(message.chat.id)
