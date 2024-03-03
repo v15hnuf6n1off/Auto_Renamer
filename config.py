@@ -53,7 +53,7 @@ class Txt(object):
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🗄 Server :</b> <a href='https://heroku.com'>Heroku</a>
 <b>🔔 Channel :</b> <a href='https://t.me/Mr_V_bots'>Mr_V_bots</a>
-<b>⚙️ Developer :</b> <a href='https://t.me/C0nt4ct_bot>MR_V</a>
+<b>⚙️ Developer :</b> <a href='https://t.me/C0nt4ct_bot'>MR_V</a>
     
 <b>💡Bot Made By :</b> @Mr_V_bots"""
 
