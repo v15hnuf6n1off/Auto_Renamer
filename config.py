@@ -39,14 +39,14 @@ class Txt(object):
     
     FILE_NAME_TXT = """<b><u>SETUP AUTO RENAME FORMAT</u></b>
 
-Use These Keywords To Setup Custom File Name
+**❗️Use These Keywords To Setup Custom File Name**
 
-✓ episode :- To Replace Episode Number
-✓ quality :- To Replace Video Resolution
+▫️ episode :- To Replace Episode Number
+▫️ quality :- To Replace Video Resolution
 
 <b>➻ Example :</b> <code> /autorename WEDNESDAY S01 - EPepisode - quality  [Dual Audio] - @A1PHER </code>
 
-<b>➻ Your Current Auto Rename Template :</b> <code>{format_template}</code> """
+<b>➻ Your Current Auto Rename Template :\n</b> <code>{format_template}</code> """
     
     ABOUT_TXT = f"""<b>🤖 My Name :</b> <a href='https://t.me/renamer_v_bot'>Auto Rename Bot ⚡</a>
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
