@@ -80,11 +80,11 @@ Use These Keywords To Setup Custom File Name
     
     DONATE_TXT = """<b>🥲 Thanks For Showing Interest In Donation! ❤️</b>
     
-If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice.
+If You Like My Bots & Projects, You Can Donate Me Any Amount From 10 Rs Upto Your Choice.
     
-<b> To donate Contact admin by</b> <code>@C0nt4ct_bot</code> """
+<b>To Donate,Contact admin by @C0nt4ct_bot</b>"""
     
     HELP_TXT = """<b>Hey</b> {}
     
-Here Is The Help"""
+Here Is The Help Commands for You"""
 
