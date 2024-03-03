@@ -10,13 +10,13 @@ async def start(client, message):
     user = message.from_user
     await madflixbotz.add_user(client, message)                
     button = InlineKeyboardMarkup([[
-      InlineKeyboardButton('🔔 Updates', url='https://t.me/Mr_V_bots),
+      InlineKeyboardButton('🔔 Updates', url='https://t.me/Mr_V_bots'),
       InlineKeyboardButton('🌐 Support Chat', url='https://t.me/+MviX9PK66y4yZTBl')
     ],[
       InlineKeyboardButton('❗️ Help', callback_data='help'),
       InlineKeyboardButton('💡About', callback_data='about')
     ],[
-        InlineKeyboardButton("😎 Developer ", url='https://t.me/C0nt4ct_bot)
+        InlineKeyboardButton("😎 Developer ", url='https://t.me/C0nt4ct_bot')
     ]])
     if Config.START_PIC:
         await message.reply_photo(Config.START_PIC, caption=Txt.START_TXT.format(user.mention), reply_markup=button)       
@@ -39,7 +39,7 @@ async def cb_handler(client, query: CallbackQuery):
                 InlineKeyboardButton('❗️ Help', callback_data='help'),
                 InlineKeyboardButton('💡 About', callback_data='about')
                 ],[
-                InlineKeyboardButton("😎 Developer ", url='https://t.me/C0nt4ct_bot)
+                InlineKeyboardButton("😎 Developer ", url='https://t.me/C0nt4ct_bot')
                 ]])
         )
     elif data == "caption":
