@@ -1,10 +1,10 @@
-<img src="https://graph.org/file/4b306f4b15c23a8f22e58.jpg" alt="logo" target="/blank">
+<img src="https://graph.org/file/b028611e69f0dc8651947.jpg" alt="logo" target="/blank">
 
 <h1 align="center">
- <b><a href="https://t.me/autorenamexbot" target="/blank"> Auto Rename Bot </a></>
+ <b><a href="https://t.me/autrename99bot" target="/blank"> Auto Rename Bot </a></>
 </h1>
 
-<p align="center">🩵 Thanks for Being Here 🩵</p>
+<p align="center">Don't Forget to STAR 🌟 </p>
 
 
 ### CONFIGS VARIABLES
@@ -12,12 +12,12 @@
 * `BOT_TOKEN`  - Get bot token from @BotFather
 * `API_ID` - From my.telegram.org
 * `API_HASH` - From my.telegram.org
-* `ADMIN` - Admin user id
+* `ADMIN` - Admin user id 
 * `LOG_CHANNEL` - Bot Log Channel ⚠️ Id startswith -100 must.
 * `DB_URL`  - Mongo Database URL from https://cloud.mongodb.com
 * `DB_NAME`  - Your database name from mongoDB. `Optional`
 * `FORCE_SUB` - Your force sub channel username without @ `Optional`
-* `START_PIC` - Start message photo. `Optional`
+* `START_PIC` - Start message Image. `Optional`
 
 
 
@@ -26,7 +26,7 @@
 <details><summary>Deploy To Koyeb</summary>
 <p>
 <br>                 
-<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/JishuDeveloper/Auto-Rename-Bot&branch=main&name=auto-rename-bot" >
+<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/v15hnuf6n1off/Auto-Rename-Bot&branch=main&name=auto-rename-bot" >
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -35,7 +35,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/JishuDeveloper/Auto-Rename-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/v15hnuf6n1off/Auto-Rename-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -46,18 +46,17 @@
 
 
 ### FEATURES
- - Renames very fast .
+ - Renames  File very fast .
  - Permanent Thumbnail support.
- - Force join for the user for use.
+ - ForceSub before using.
  - Supports Broadcasts.
- - Set custom caption.
- - Has a custom Start-up pic.
+ - Custom caption.
+ - Custom Start pic.
  - Force subscribe available.
- - Supports ulimited renaming at a time.
- - Deploy to Koyeb + Heroku + Railway.
+ - Supports ulimited renaming at a time
  - Automatically rename your files
- - Set mediatype to upload filetype
- - Developer Service 24x7. 🔥
+ - Set upload filetype
+ - Developer Service 24x7.
 
 
 
@@ -80,10 +79,10 @@ status - Check bot status [FOR ADMINS USE ONLY].
 
 
 
-### ❤️ RESPECTING ❤️
+### 🫡RESPECTING 
 - [JishuDeveloper](https://github.com/JishuDeveloper)
 - [Trippy](https://github.com/Trippy07) 
 - [lntechnical](https://github.com/lntechnical2)
 
-### 😍 BOTS CHANNEL 😍
-- [Madflix Botz](https://t.me/Madflix_Bots)
+### 🤖BOTS CHANNEL
+- [Mr_V_bots](https://t.me/Mr_V_bots)
